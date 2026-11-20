@@ -1,0 +1,15 @@
+# Original Ezonics/Conexant driver files and anything derived from them (disassembly listings).
+# These are third-party copyrighted binaries: fetch them yourself with re/fetch-vendor.sh.
+vendor/
+
+# Dumps from your own camera (EEPROM contents, USB captures, raw frames)
+captures/
+
+# Build output
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+__pycache__/
+*.pyc
